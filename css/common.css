@@ -1,0 +1,7 @@
+html, body, #world, .leaflet-container {
+  height: 100%;
+  width: 100%;
+}
+.leaflet-popup-content {
+  width: initial !important;
+}
