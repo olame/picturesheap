@@ -16,6 +16,7 @@ module.exports = {
         "react"
     ],
     "rules": {
+        "no-console": "off",
         "indent": [
             "error",
             4
@@ -31,6 +32,8 @@ module.exports = {
         "semi": [
             "error",
             "always"
-        ]
+        ],
+        "no-var": "error",
+        "prefer-const": "error"
     }
 };
