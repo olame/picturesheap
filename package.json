@@ -18,12 +18,14 @@
   "homepage": "https://github.com/olame/picturesheap#readme",
   "dependencies": {
     "eslint": "^3.11.0",
+    "jquery": "^3.1.1",
     "leaflet": "^1.0.2",
     "lodash": "^4.17.2",
     "q": "^1.4.1",
     "react": "^15.4.1",
     "react-dom": "^15.4.1",
-    "react-leaflet": "^1.0.1"
+    "react-leaflet": "^1.0.1",
+    "url": "^0.11.0"
   },
   "devDependencies": {
     "babel-core": "^6.18.2",

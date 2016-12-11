@@ -1,8 +1,8 @@
-var path = require('path');
-var webpack = require('webpack');
+const path = require('path');
+const webpack = require('webpack');
 
 module.exports = {
-    entry: './index.jsx',
+    entry: './testApi.jsx',
     output: {
         path: __dirname + '/dist',
         filename: 'bundle.js'

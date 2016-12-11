@@ -1,7 +1,10 @@
-html, body, #world, .leaflet-container {
+html, body, #world, #testApi, .leaflet-container {
   height: 100%;
   width: 100%;
 }
 .leaflet-popup-content {
   width: initial !important;
+}
+.photosGallery {
+    min-height: 100px;
 }
